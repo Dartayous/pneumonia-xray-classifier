@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🫁 Pneumonia X-ray Classifier</h1>
-<p align="center"><i>Medical Image Classification Pipeline — Engineered for Insight, Built for Deployment</i></p>
+<p align="center"><i>From pixel to prognosis: Deep learning-powered pneumonia detection with full visual explainability</i></p>
 
 ---
 
