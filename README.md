@@ -2,7 +2,7 @@
   <img src="assets/Pneumonia_X_ray_Classifier_Banner.png" alt="Pneumonia Detection with X-rays" width="100%">
 </p>
 
-<h1 align="center">🫁 Pneumonia X-ray Classifier</h1>
+<h1 align="center"> Pneumonia X-ray Classifier</h1>
 <p align="center"><i>From pixel to prognosis: Deep learning-powered pneumonia detection with full visual explainability</i></p>
 
 ---
