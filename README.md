@@ -34,3 +34,7 @@ Built from the ground up with reproducibility and extensibility in mind, it refl
 git clone https://github.com/Dartayous/pneumonia-xray-classifier.git
 cd pneumonia-xray-classifier
 
+🏥 Clinical Relevance
+AI-driven diagnostic tools like this pneumonia classifier have the potential to assist radiologists and healthcare professionals by highlighting regions of interest and reducing diagnostic oversight. While not a replacement for medical judgment, such models can support triage in high-volume settings, offer second opinions in under-resourced clinics, and enable earlier intervention by flagging high-risk cases based on imaging alone.
+
+The integration of Grad-CAM visualizations enhances trust and transparency by showing exactly where the model is focusing—making it a valuable aid in human-in-the-loop clinical workflows.
